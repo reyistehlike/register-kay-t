@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "name": "app",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
